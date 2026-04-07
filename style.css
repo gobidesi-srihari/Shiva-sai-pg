@@ -82,30 +82,8 @@ footer {
   object-fit: cover;
 }
 
-.whatsapp-btn {
+.wa-icon {
   position: fixed;
-  bottom: 15px;
-  right: 15px;
-  left: 15px; /* important for mobile */
-  background-color: #25D366;
-  color: white !important;
-  text-align: center;
-  padding: 14px;
-  font-size: 16px;
-  font-weight: bold;
-  border-radius: 12px;
-  text-decoration: none;
-  z-index: 9999;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  bottom: 20px;
+  right: 20px;
 }
-
-/* Desktop view */
-@media (min-width: 768px) {
-  .whatsapp-btn {
-    left: auto;
-    width: auto;
-    padding: 12px 20px;
-    border-radius: 50px;
-  }
-}
-
