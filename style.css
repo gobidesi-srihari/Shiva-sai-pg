@@ -108,3 +108,8 @@ footer {
     border-radius: 50px;
   }
 }
+
+.whatsapp-btn img {
+  width: 20px;
+  height: 20px;
+}
