@@ -82,13 +82,6 @@ footer {
   object-fit: cover;
 }
 
-.wa-icon {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-}
-
-
 .book-btn {
   position: fixed;
   bottom: 15px;
